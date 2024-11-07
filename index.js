@@ -1,5 +1,3 @@
-// index.js
-
 function DropdownMenu(selector, options = {}) {
   const triggers = document.querySelectorAll(selector);
   const eventType = options.eventType || "click";
