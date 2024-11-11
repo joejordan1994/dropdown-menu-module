@@ -1,5 +1,5 @@
 {
-  "name": "dropdown-menu-module",
+  "name": "@joejordan1994/dropdown-menu-module",
   "version": "1.0.0",
   "description": "A reusable dropdown menu module.",
   "main": "index.js",
